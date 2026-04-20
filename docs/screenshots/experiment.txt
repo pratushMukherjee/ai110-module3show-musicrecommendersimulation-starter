@@ -1,0 +1,30 @@
+========================================================================
+BASELINE weights
+(GENRE_WEIGHT=2.0, ENERGY_WEIGHT=1.0)
+------------------------------------------------------------------------
+1. Sunrise City -- Neon Echo  (score 3.98)
+   genre=pop  mood=happy  energy=0.82
+2. Gym Hero -- Max Pulse  (score 2.87)
+   genre=pop  mood=intense  energy=0.93
+3. Rooftop Lights -- Indigo Parade  (score 1.96)
+   genre=indie pop  mood=happy  energy=0.76
+4. Block Party Bounce -- Kid Riviera  (score 1.96)
+   genre=hip hop  mood=happy  energy=0.84
+5. Festival Horizon -- Pulse Theory  (score 1.85)
+   genre=edm  mood=happy  energy=0.95
+
+========================================================================
+SHIFTED weights (genre halved, energy doubled)
+(GENRE_WEIGHT=1.0, ENERGY_WEIGHT=2.0)
+------------------------------------------------------------------------
+1. Sunrise City -- Neon Echo  (score 3.96)
+   genre=pop  mood=happy  energy=0.82
+2. Rooftop Lights -- Indigo Parade  (score 2.92)
+   genre=indie pop  mood=happy  energy=0.76
+3. Block Party Bounce -- Kid Riviera  (score 2.92)
+   genre=hip hop  mood=happy  energy=0.84
+4. Gym Hero -- Max Pulse  (score 2.74)
+   genre=pop  mood=intense  energy=0.93
+5. Festival Horizon -- Pulse Theory  (score 2.70)
+   genre=edm  mood=happy  energy=0.95
+
